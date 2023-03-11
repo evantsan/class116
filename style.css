@@ -1,0 +1,22 @@
+canvas{
+    animation-name: b;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+}
+@keyframes b {
+    from{
+        box-shadow: 5px 5px 100px yellow;
+    } 
+    to{
+        box-shadow: 5px 5px 100px orangered;
+    }
+
+}
+body
+{
+    background-color:rgba(87, 203, 211, 0.325);
+}
+h1
+{
+    font-size: x-large!important;
+}
